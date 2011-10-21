@@ -1,6 +1,6 @@
 # Siri Says #
 
-Siri Says gets that Siri all up in your Ruby. Inspired by [Remember the Milk][rtm].
+Siri Says gets that Siri biz-nass all up in your Ruby. Inspired by [Remember the Milk][rtm].
 
     require "rubygems"
     require "siri_says"
@@ -37,7 +37,7 @@ Add the calendar:
 4. "Other"
 5. "Add CalDAV Account"
     * Server: google.com
-    * Username: tysontate@gmail.com
+    * Username: username@gmail.com
     * Password: ___________
     * Description: "sirisays"
 6. "Next"
