@@ -17,7 +17,18 @@ Gem::Specification.new do |s|
     "README.markdown"
   ]
   s.files = [
-    "README.markdown"
+    "Gemfile",
+    "Gemfile.lock",
+    "LICENSE.txt",
+    "README.markdown",
+    "Rakefile",
+    "VERSION",
+    "examples/campfire.rb",
+    "examples/echo.rb",
+    "lib/siri-says.rb",
+    "lib/siri_says.rb",
+    "pkg/siri_says-0.0.1.gem",
+    "siri_says.gemspec"
   ]
   s.homepage = "http://github.com/tysontate/siri_says/"
   s.licenses = ["MIT"]
