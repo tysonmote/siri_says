@@ -79,7 +79,7 @@ module SiriSays
       end
       
       def xmltime( time )
-        time.xmlschema
+        time.utc.xmlschema
       end
       
       def service
