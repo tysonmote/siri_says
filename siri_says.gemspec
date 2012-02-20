@@ -27,7 +27,6 @@ Gem::Specification.new do |s|
     "examples/echo.rb",
     "lib/siri-says.rb",
     "lib/siri_says.rb",
-    "pkg/siri_says-0.0.1.gem",
     "siri_says.gemspec"
   ]
   s.homepage = "http://github.com/tysontate/siri_says/"
