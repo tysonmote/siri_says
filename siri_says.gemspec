@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "siri_says"
-  s.version = "0.0.1"
+  s.version = "0.0.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Tyson Tate"]
-  s.date = "2011-10-21"
+  s.date = "2012-02-20"
   s.description = "Siri as a remote control. Provides a basic DSL for handling commands from Siri via a ridiculous hack."
   s.email = "tyson@tysontate.com"
   s.extra_rdoc_files = [
@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/tysontate/siri_says/"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.10"
+  s.rubygems_version = "1.8.11"
   s.summary = "Siri as a remote control."
 
   if s.respond_to? :specification_version then
